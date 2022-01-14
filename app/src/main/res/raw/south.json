@@ -1,0 +1,28 @@
+﻿{
+    "South": [
+        {
+            "Recipe": "Pudina Idli Recipe",
+            "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shyma_Menon/Healthy_Homemade_Pudina_Idli_Recipe_Mint_Idli_Recipe-2_1600.jpg"
+        },
+        {
+            "Recipe": "Sagu Masala Dosa Recipe",
+            "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Breakfast_Tiffins/Karanataka_Style_Set_Dosa_Recipe_Thick_Pancakes_Indian_Vegetarian_Archanas_Kitchen-1.jpg"
+        },
+        {
+            "Recipe": "Paal Kesari Recipe",
+            "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Uma_Raghuraman/Milk_Kesari_Recipe_Paal_Kesari_Recipe.jpg"
+        },
+        {
+            "Recipe": "Potato Bonda Recipe",
+            "ImageURL": "https://udupi-recipes.com/wp-content/uploads/2013/07/aloobondaready.jpg"
+        },
+        {
+            "Recipe": "Spicy Tomato Rice (Recipe)",
+            "ImageURL": "https://farm9.static.flickr.com/8624/15335181254_dde8b7c66f_z.jpg"
+        },
+        {
+            "Recipe": "Fruit Pachadi Recipe",
+            "ImageURL": "https://www.plattershare.com/common/uploaded_files/recipe/58635ab65aa99.jpg"
+        }
+    ]
+}

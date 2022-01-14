@@ -1,0 +1,46 @@
+﻿{
+    "Popular":
+    [
+      {
+        "Dish": "Maharashtrian Misal Pav Recipe",
+        "URL": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/misal-pav.jpg"
+      },
+
+      {
+        "Dish": "Gujarati Palak Dhokla Recipe",
+        "URL": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/dhokla.jpg"
+      },
+      {
+        "Dish": "Kashmiri Rogan Josh Recipe",
+        "URL": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/rogan-josh_5d3037b27b7b4.jpg"
+      },
+      {
+        "Dish": "Oats And Spinach Pongal Recipe",
+        "URL": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/pongal.jpg"
+      },
+      {
+        "Dish": "Papaya Khar",
+        "URL": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/papaya-khar.jpg"
+      },
+      {
+       
+        "Dish": "Litti Chowkha",
+        "URL": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/litti-chowkha.jpg"
+      },
+      {
+        
+        "Dish": "Biryani",
+        "URL": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/biryani.jpg"
+      },
+      {
+        "Dish": "Bengali Kosha Mangsho Recipe-Slow Cooked Mutton Curry",
+        "URL": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/kosha-mangsho_5d3036c936254.jpg"
+      },
+      {
+        
+        "Dish": "Fish Curry",
+        "URL": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/fish-curry.jpg"
+      }
+      
+    ]
+}

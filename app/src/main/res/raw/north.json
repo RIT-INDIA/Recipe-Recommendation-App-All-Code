@@ -1,0 +1,32 @@
+﻿{
+    "North": [
+        {
+            "Recipe": "Matar Samosa Recipe",
+            "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Richa_Gupta/Matar_ke_Samose.jpg"
+        },
+        {
+            "Recipe": "Kesar Chai Recipe",
+            "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/Kesai_Chai_Recipe_Indian_Style_Saffron_Tea-1.jpg"
+        },
+        {
+            "Recipe": "Gond Ke Ladoo Recipe",
+            "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/pooja/Goond_Ke_LadduEdible_Gum_Laddu.jpg"
+        },
+        {
+            "Recipe": "Dahi Wale Aloo Recipe",
+            "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Dahi_Wale_Aloo_Recipe_2.jpg"
+        },
+        {
+            "Recipe": "Vegan Kofta Curry Recipe",
+            "ImageURL": "https://www.thecuriouschickpea.com/wp-content/uploads/2018/03/malaikofta-4.jpg.webp"
+        },
+        {
+            "Recipe": "Thandai Srikhand Tart Recipe",
+            "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Alaka_Jena/Thandai_Shrikhand_Tart_Recipe-1.jpg"
+        },
+        {
+            "Recipe": "Onion Thepla Recipe",
+            "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Onion_Thepla_Recipe.jpg"
+        }
+    ]
+}

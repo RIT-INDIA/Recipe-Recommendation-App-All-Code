@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    card_view:cardBackgroundColor="@color/cardview_light_background"
+    card_view:cardCornerRadius="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+        <RelativeLayout
+            android:id="@+id/search_layout"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:background="#FFFFFF"
+            android:layout_margin="10dp">
+
+            <TextView
+                android:id="@+id/search_recipe"
+                android:layout_width="210dp"
+                android:layout_height="match_parent"
+                android:fontFamily="sans-serif-light"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:padding="5dp"
+                android:text="Recipe name"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/search_image"
+                android:layout_width="160dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/vegetable"
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#8495F3"></View>
+
+</androidx.cardview.widget.CardView>

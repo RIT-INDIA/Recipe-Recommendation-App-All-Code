@@ -1,0 +1,28 @@
+{
+  "Maharashtrian": [
+    {
+      "Recipe": "Traditional Steamed Modak Recipe",
+      "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Roop/Traditional_Modak_Recipe_Ukadiche_Modak_Or_Steamed_Modak_recipe.jpg"
+    },
+    {
+      "Recipe": "Gul Poli Recipe",
+      "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Breads/Maharashtrian_Gulpoli_Recipe.JPG"
+    },
+    {
+      "Recipe": "Thalipeeth Bhajani Recipe",
+      "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Madhuli_Ajay/Thalipeeth_Bhajani__Typical_Maharashtrian_Multigrain_Flour_mix.jpg"
+    },
+    {
+      "Recipe": "Matki Chi Rassa Bhaji Recipe ",
+      "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/nithya.anantham/Matki_Chi_Rassa_Bhaji_Recipe_Maharashtrian_Style_Moth_Beans_Cooked_with_Goda_Masala.jpg"
+    },
+    {
+      "Recipe": "Kokum Saar Recipe",
+      "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Madhuli_Ajay/Kokum_Saar_Traditional_Maharashtrian_drink_made_using_Kokum_juice.jpg"
+    },
+    {
+      "Recipe": "Danyachi Amti Recipe",
+      "ImageURL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Madhuli_Ajay/Danyachi_Amti_Maharashtrian_style_groundnut_curry.jpg"
+    }
+  ]
+}
